@@ -1,0 +1,6 @@
+{
+  "name": "ExitNote",
+  "description": "An offline-first departure confirmation utility that records what you checked before leaving home and generates timestamped exit receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
